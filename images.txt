@@ -1,7 +1,6 @@
 prom/alertmanager:v0.13.0
 jimmidyson/configmap-reload:v0.1
 busybox:latest
-registry.cn-hangzhou.aliyuncs.com/google_containers/kube-state-metrics:v1.2.0
 prom/node-exporter:v0.15.2
 prom/prometheus:v2.1.0
 prom/pushgateway:v0.4.0
