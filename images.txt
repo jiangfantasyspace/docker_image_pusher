@@ -1,7 +1,4 @@
-registry.cn-hangzhou.aliyuncs.com/prom/alertmanager:v0.13.0
-registry.cn-hangzhou.aliyuncs.com/jimmidyson/configmap-reload:v0.1
-registry.cn-hangzhou.aliyuncs.com/busybox:latest
-registry.cn-hangzhou.aliyuncs.com/google_containers/kube-state-metrics:v1.2.0
-registry.cn-hangzhou.aliyuncs.com/prom/node-exporter:v0.15.2
-registry.cn-hangzhou.aliyuncs.com/prom/prometheus:v2.1.0
-registry.cn-hangzhou.aliyuncs.com/prom/pushgateway:v0.4.0
+registry.k8s.io/kube-apiserver:v1.28.15
+registry.k8s.io/kube-controller-manager:v1.28.15
+registry.k8s.io/kube-scheduler:v1.28.15
+registry.k8s.io/kube-proxy:v1.28.15
