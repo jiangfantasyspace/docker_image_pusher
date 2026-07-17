@@ -1,8 +1,7 @@
-docker.io/grafana/grafana:13.1.0
-ghcr.io/jkroepke/kube-webhook-certgen:1.8.4
-quay.io/kiwigrid/k8s-sidecar:2.8.1
-quay.io/prometheus/alertmanager:v0.33.1
-quay.io/prometheus/node-exporter:v1.12.0-distroless
-quay.io/prometheus-operator/prometheus-operator:v0.92.1
-quay.io/prometheus/prometheus:v3.13.1-distroless
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.19.1
+docker.io/bats/bats:1.13.0
+docker.io/curlimages/curl:8.21.0
+docker.io/library/busybox:1.38.0
+docker.io/grafana/grafana-image-renderer:latest
+quay.io/brancz/kube-rbac-proxy:v0.22.1
+quay.io/prometheus/busybox:latest
+quay.io/thanos/thanos:v0.42.0
