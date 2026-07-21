@@ -1,3 +1,1 @@
-registry.k8s.io/kubectl:v1.28.2
-registry.k8s.io/kubectl:v1.28.15
-registry.k8s.io/kubectl:v1.34.9
+ghcr.io/prometheus-community/windows-exporter:v1.9.0
