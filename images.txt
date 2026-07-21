@@ -1,1 +1,1 @@
-ghcr.io/prometheus-community/windows-exporter:0.31.7
+ghcr.io/prometheus-community/windows-exporter:v0.12.7
