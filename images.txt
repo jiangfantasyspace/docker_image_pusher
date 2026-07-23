@@ -2,3 +2,4 @@ docker.io/kubernetesui/dashboard-auth:1.4.0
 docker.io/kubernetesui/dashboard-api:1.14.0
 docker.io/kubernetesui/dashboard-web:1.7.0
 docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
+registry.k8s.io/autoscaling/addon-resizer:1.8.23
