@@ -8,3 +8,4 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.3
 registry.k8s.io/ingress-nginx/controller:v1.13.3
 kong:3.9
 kong/kubernetes-ingress-controller:3.5
+ghcr.io/headlamp-k8s/headlamp:0.43.0
