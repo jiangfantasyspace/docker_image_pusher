@@ -3,3 +3,8 @@ docker.io/kubernetesui/dashboard-api:1.14.0
 docker.io/kubernetesui/dashboard-web:1.7.0
 docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
 registry.k8s.io/autoscaling/addon-resizer:1.8.23
+registry.k8s.io/defaultbackend-amd64:1.5
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.3
+registry.k8s.io/ingress-nginx/controller:v1.13.3
+kong:3.9
+kong/kubernetes-ingress-controller:3.5
