@@ -1,5 +1,9 @@
 # --platform=linux/arm64 registry.k8s.io/metrics-server/metrics-server:v0.8.1
 # --platform=linux/arm64 registry.k8s.io/metrics-server/metrics-server:v0.9.0
-ghcr.io/openclaw/openclaw:2026.6.11
-ghcr.io/openclaw/openclaw:2026.7.1
-ghcr.io/openclaw/openclaw:latest
+# ghcr.io/openclaw/openclaw:2026.6.11
+# ghcr.io/openclaw/openclaw:2026.7.1
+# ghcr.io/openclaw/openclaw:latest
+
+--platform=linux/arm64 ghcr.io/openclaw/openclaw:2026.6.11
+--platform=linux/arm64 ghcr.io/openclaw/openclaw:2026.7.1
+--platform=linux/arm64 ghcr.io/openclaw/openclaw:latest
