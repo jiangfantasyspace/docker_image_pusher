@@ -4,6 +4,18 @@
 # ghcr.io/openclaw/openclaw:2026.7.1
 # ghcr.io/openclaw/openclaw:latest
 
---platform=linux/arm64 ghcr.io/openclaw/openclaw:2026.6.11
---platform=linux/arm64 ghcr.io/openclaw/openclaw:2026.7.1
---platform=linux/arm64 ghcr.io/openclaw/openclaw:latest
+# --platform=linux/arm64 ghcr.io/openclaw/openclaw:2026.6.11
+# --platform=linux/arm64 ghcr.io/openclaw/openclaw:2026.7.1
+# --platform=linux/arm64 ghcr.io/openclaw/openclaw:latest
+
+docker/sandbox-templates:claude-code
+docker/sandbox-templates:codex
+docker/sandbox-templates:copilot
+docker/sandbox-templates:gemini
+docker/sandbox-templates:docker-agent
+
+--platform=linux/arm64 docker/sandbox-templates:claude-code
+--platform=linux/arm64 docker/sandbox-templates:codex
+--platform=linux/arm64 docker/sandbox-templates:copilot
+--platform=linux/arm64 docker/sandbox-templates:gemini
+--platform=linux/arm64 docker/sandbox-templates:docker-agent
