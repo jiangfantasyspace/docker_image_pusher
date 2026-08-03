@@ -1,14 +1,22 @@
-redis/redisinsight:3.8.0
-redis/redisinsight:3.6.0
---platform=linux/arm64 redis/redisinsight:3.8.0
---platform=linux/arm64 redis/redisinsight:3.6.0
+node:22
+golang:1.25
+alpine:3
 
-redis:7.4.2
-redis:7.2.12
-redis:6.2.19
---platform=linux/arm64 redis:7.4.2
---platform=linux/arm64 redis:7.2.12
---platform=linux/arm64 redis:6.2.19
+--platform=linux/arm64 node:22
+--platform=linux/arm64 golang:1.25
+--platform=linux/arm64 alpine:3
+
+# redis/redisinsight:3.8.0
+# redis/redisinsight:3.6.0
+# --platform=linux/arm64 redis/redisinsight:3.8.0
+# --platform=linux/arm64 redis/redisinsight:3.6.0
+
+# redis:7.4.2
+# redis:7.2.12
+# redis:6.2.19
+# --platform=linux/arm64 redis:7.4.2
+# --platform=linux/arm64 redis:7.2.12
+# --platform=linux/arm64 redis:6.2.19
 
 # nginx:1.24.0
 # nginx:1.26.3
