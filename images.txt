@@ -1,10 +1,9 @@
-eclipse-temurin:8-jdk
-eclipse-temurin:8-jre
-eclipse-temurin:17-jdk
-eclipse-temurin:17-jre
-eclipse-temurin:21-jdk
-eclipse-temurin:21-jre
-eclipse-temurin:8-jre-ubuntu-jammy
+#eclipse-temurin:8-jdk
+#eclipse-temurin:8-jre
+#eclipse-temurin:17-jdk
+#eclipse-temurin:17-jre
+#eclipse-temurin:21-jdk
+#eclipse-temurin:21-jre
 eclipse-temurin:17-jre-ubuntu-jammy
 eclipse-temurin:21-jre-ubuntu-jammy
 maven:3.9-eclipse-temurin-17
@@ -15,7 +14,6 @@ maven:3.9-eclipse-temurin-17
 --platform=linux/arm64 eclipse-temurin:17-jre
 --platform=linux/arm64 eclipse-temurin:21-jdk
 --platform=linux/arm64 eclipse-temurin:21-jre
---platform=linux/arm64 eclipse-temurin:8-jre-ubuntu-jammy
 --platform=linux/arm64 eclipse-temurin:17-jre-ubuntu-jammy
 --platform=linux/arm64 eclipse-temurin:21-jre-ubuntu-jammy
 --platform=linux/arm64 maven:3.9-eclipse-temurin-17
