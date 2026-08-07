@@ -1,8 +1,13 @@
-gitea/gitea:1.24.5
-gitea/gitea:1.23.8
+gitea/gitea:1.26.4
+gitea/gitea:1.25.5
+--platform=linux/arm64 gitea/gitea:1.26.4
+--platform=linux/arm64 gitea/gitea:1.25.5
 
---platform=linux/arm64 gitea/gitea:1.24.5
---platform=linux/arm64 gitea/gitea:1.23.8
+
+#gitea/gitea:1.24.5
+#gitea/gitea:1.23.8
+#--platform=linux/arm64 gitea/gitea:1.24.5
+#--platform=linux/arm64 gitea/gitea:1.23.8
 
 #gitlab/gitlab-ce:18.11.7-ce.0
 #gitlab/gitlab-ce:18.8.11-ce.0
