@@ -1,5 +1,16 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
---platform=linux/arm64 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+jenkins/jenkins:lts-jdk21
+jenkins/jenkins:lts-jdk17
+jenkins/jenkins:lts-jdk11
+jenkins/jenkins:lts-jdk8
+
+--platform=linux/arm64 jenkins/jenkins:lts-jdk21
+--platform=linux/arm64 jenkins/jenkins:lts-jdk17
+--platform=linux/arm64 jenkins/jenkins:lts-jdk11
+--platform=linux/arm64 jenkins/jenkins:lts-jdk8
+
+
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#--platform=linux/arm64 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 
 
