@@ -1,12 +1,26 @@
-jenkins/jenkins:lts-jdk21
-jenkins/jenkins:lts-jdk17
-jenkins/jenkins:lts-jdk11
-jenkins/jenkins:lts-jdk8
+linuxserver/wireguard
+hwdsl2/wireguard-server
+ghcr.io/wg-easy/wg-easy
+openvpn/openvpn-as
+ubspacecommunity/subspace
 
---platform=linux/arm64 jenkins/jenkins:lts-jdk21
---platform=linux/arm64 jenkins/jenkins:lts-jdk17
---platform=linux/arm64 jenkins/jenkins:lts-jdk11
---platform=linux/arm64 jenkins/jenkins:lts-jdk8
+--platform=linux/arm64 linuxserver/wireguard
+--platform=linux/arm64 hwdsl2/wireguard-server
+--platform=linux/arm64 ghcr.io/wg-easy/wg-easy
+--platform=linux/arm64 openvpn/openvpn-as
+--platform=linux/arm64 ubspacecommunity/subspace
+
+
+
+#jenkins/jenkins:lts-jdk21
+#jenkins/jenkins:lts-jdk17
+#jenkins/jenkins:lts-jdk11
+#jenkins/jenkins:lts-jdk8
+
+#--platform=linux/arm64 jenkins/jenkins:lts-jdk21
+#--platform=linux/arm64 jenkins/jenkins:lts-jdk17
+#--platform=linux/arm64 jenkins/jenkins:lts-jdk11
+#--platform=linux/arm64 jenkins/jenkins:lts-jdk8
 
 
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
