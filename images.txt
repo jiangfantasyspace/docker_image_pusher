@@ -1,7 +1,7 @@
-ghcr.io/mhsanaei/3x-ui
-ghcr.io/mhsanaei/3x-ui:v3.5.0
---platform=linux/arm64 ghcr.io/mhsanaei/3x-ui
---platform=linux/arm64 ghcr.io/mhsanaei/3x-ui:v3.5.0
+#ghcr.io/mhsanaei/3x-ui
+#ghcr.io/mhsanaei/3x-ui:v3.5.0
+#--platform=linux/arm64 ghcr.io/mhsanaei/3x-ui
+#--platform=linux/arm64 ghcr.io/mhsanaei/3x-ui:v3.5.0
 
 #linuxserver/wireguard:1.0.20260223
 #linuxserver/wireguard:1.0.20250521
