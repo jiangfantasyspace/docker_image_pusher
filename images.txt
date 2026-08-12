@@ -1,14 +1,20 @@
-linuxserver/wireguard
-hwdsl2/wireguard-server
-ghcr.io/wg-easy/wg-easy
-openvpn/openvpn-as
-ubspacecommunity/subspace
+linuxserver/wireguard:1.0.20260223
+linuxserver/wireguard:1.0.20250521
+--platform=linux/arm64 linuxserver/wireguard:1.0.20260223
+--platform=linux/arm64 linuxserver/wireguard:1.0.20250521
 
---platform=linux/arm64 linuxserver/wireguard
---platform=linux/arm64 hwdsl2/wireguard-server
---platform=linux/arm64 ghcr.io/wg-easy/wg-easy
---platform=linux/arm64 openvpn/openvpn-as
---platform=linux/arm64 ubspacecommunity/subspace
+
+#linuxserver/wireguard
+#hwdsl2/wireguard-server
+#ghcr.io/wg-easy/wg-easy
+#openvpn/openvpn-as
+#ubspacecommunity/subspace
+
+#--platform=linux/arm64 linuxserver/wireguard
+#--platform=linux/arm64 hwdsl2/wireguard-server
+#--platform=linux/arm64 ghcr.io/wg-easy/wg-easy
+#--platform=linux/arm64 openvpn/openvpn-as
+#--platform=linux/arm64 ubspacecommunity/subspace
 
 
 
