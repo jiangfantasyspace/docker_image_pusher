@@ -1,3 +1,18 @@
+outlinewiki/outline:1.2.0
+outlinewiki/outline:1.5.0
+outlinewiki/outline:1.6.1
+outlinewiki/outline:1.7.1
+outlinewiki/outline:1.8.1
+outlinewiki/outline:1.9.2
+
+--platform=linux/arm64 outlinewiki/outline:1.2.0
+--platform=linux/arm64 outlinewiki/outline:1.5.0
+--platform=linux/arm64 outlinewiki/outline:1.6.1
+--platform=linux/arm64 outlinewiki/outline:1.7.1
+--platform=linux/arm64 outlinewiki/outline:1.8.1
+--platform=linux/arm64 outlinewiki/outline:1.9.2
+
+
 #ghcr.io/mhsanaei/3x-ui
 #ghcr.io/mhsanaei/3x-ui:v3.5.0
 #--platform=linux/arm64 ghcr.io/mhsanaei/3x-ui
