@@ -1,12 +1,30 @@
+milvusdb/milvus:v2.6.0
+milvusdb/milvus:v2.5.27
+milvusdb/milvus:v2.4.15
+pgvector/pgvector:pg18
+qdrant/qdrant:v1.15.3
+qdrant/qdrant:v1.17.1
+qdrant/qdrant:v1.16.3
+
+--platform=linux/arm64 milvusdb/milvus:v2.6.0
+--platform=linux/arm64 milvusdb/milvus:v2.5.27
+--platform=linux/arm64 milvusdb/milvus:v2.4.15
+--platform=linux/arm64 pgvector/pgvector:pg18
+--platform=linux/arm64 qdrant/qdrant:v1.15.3
+--platform=linux/arm64 qdrant/qdrant:v1.17.1
+--platform=linux/arm64 qdrant/qdrant:v1.16.3
+
+
+
 #mysql:5.7.44
 #mysql:8.0.26
 #mysql:8.0.36
 #mysql:8.0.40
 #mysql:8.4.5
 
---platform=linux/arm64 mysql:8.0.36
---platform=linux/arm64 mysql:8.0.40
---platform=linux/arm64 mysql:8.4.5
+#--platform=linux/arm64 mysql:8.0.36
+#--platform=linux/arm64 mysql:8.0.40
+#--platform=linux/arm64 mysql:8.4.5
 
 
 
