@@ -1,10 +1,19 @@
-vllm/vllm-openai:v0.27.1
-vllm/vllm-openai:v0.26.0
-vllm/vllm-openai:v0.25.1
-vllm/vllm-openai:v0.24.0
-vllm/vllm-openai:v0.23.0
-vllm/vllm-openai:v0.22.1
-vllm/vllm-openai:v0.21.0
+--platform=linux/arm64 vllm/vllm-openai:v0.27.1
+--platform=linux/arm64 vllm/vllm-openai:v0.26.0
+--platform=linux/arm64 vllm/vllm-openai:v0.25.1
+--platform=linux/arm64 vllm/vllm-openai:v0.24.0
+--platform=linux/arm64 vllm/vllm-openai:v0.23.0
+--platform=linux/arm64 vllm/vllm-openai:v0.22.1
+--platform=linux/arm64 vllm/vllm-openai:v0.21.0
+
+
+#vllm/vllm-openai:v0.27.1
+#vllm/vllm-openai:v0.26.0
+#vllm/vllm-openai:v0.25.1
+#vllm/vllm-openai:v0.24.0
+#vllm/vllm-openai:v0.23.0
+#vllm/vllm-openai:v0.22.1
+#vllm/vllm-openai:v0.21.0
 
 
 #milvusdb/milvus:v2.6.0
