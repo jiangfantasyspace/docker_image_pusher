@@ -1,14 +1,14 @@
 
-opendatalab/mineru:v3.4.5
-opendatalab/mineru:v3.4.0
-opendatalab/mineru:v3.2.1
-opendatalab/mineru:v3.1.15
+opendatalab/mineru:v3.4.5-released
+opendatalab/mineru:v3.4.0-released
+opendatalab/mineru:v3.2.1-released
+opendatalab/mineru:v3.1.15-released
 
 
---platform=linux/arm64 opendatalab/mineru:v3.4.5
---platform=linux/arm64 opendatalab/mineru:v3.4.0
---platform=linux/arm64 opendatalab/mineru:v3.2.1
---platform=linux/arm64 opendatalab/mineru:v3.1.15
+--platform=linux/arm64 opendatalab/mineru:v3.4.5-released
+--platform=linux/arm64 opendatalab/mineru:v3.4.0-released
+--platform=linux/arm64 opendatalab/mineru:v3.2.1-released
+--platform=linux/arm64 opendatalab/mineru:v3.1.15-released
 
 
 #milvusdb/milvus:v2.6.0
