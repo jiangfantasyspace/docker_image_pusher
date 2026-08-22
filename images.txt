@@ -1,4 +1,5 @@
-pendatalab/mineru:v3.4.5
+
+opendatalab/mineru:v3.4.5
 opendatalab/mineru:v3.4.0
 opendatalab/mineru:v3.2.1
 opendatalab/mineru:v3.1.15
