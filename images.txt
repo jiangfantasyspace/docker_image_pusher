@@ -1,24 +1,47 @@
+nvidia/cuda:12.6.3-base-ubuntu22.04
+nvidia/cuda:12.6.3-base-ubuntu24.04
+nvidia/cuda:12.6.3-base-ubuntu26.04
+nvidia/cuda:12.9.2-base-ubuntu22.04
+nvidia/cuda:12.9.2-base-ubuntu24.04
+nvidia/cuda:12.9.2-base-ubuntu26.04
+nvidia/cuda:13.3.1-base-ubuntu22.04
+nvidia/cuda:13.3.1-base-ubuntu24.04
+nvidia/cuda:13.3.1-base-ubuntu26.04
+
+--platform=linux/arm64 nvidia/cuda:12.6.3-base-ubuntu22.04
+--platform=linux/arm64 nvidia/cuda:12.6.3-base-ubuntu24.04
+--platform=linux/arm64 nvidia/cuda:12.6.3-base-ubuntu26.04
+--platform=linux/arm64 nvidia/cuda:12.9.2-base-ubuntu22.04
+--platform=linux/arm64 nvidia/cuda:12.9.2-base-ubuntu24.04
+--platform=linux/arm64 nvidia/cuda:12.9.2-base-ubuntu26.04
+--platform=linux/arm64 nvidia/cuda:13.3.1-base-ubuntu22.04
+--platform=linux/arm64 nvidia/cuda:13.3.1-base-ubuntu24.04
+--platform=linux/arm64 nvidia/cuda:13.3.1-base-ubuntu26.04
+
+
+
+
 #milvusdb/milvus:v2.6.0
 #milvusdb/milvus:v2.5.27
 #milvusdb/milvus:v2.4.15
 
-milvusdb/milvus:v2.6.22
---platform=linux/arm64 milvusdb/milvus:v2.6.22
+#milvusdb/milvus:v2.6.22
+#--platform=linux/arm64 milvusdb/milvus:v2.6.22
 
-qdrant/qdrant:v1.19.0
-qdrant/qdrant:v1.18.3
-qdrant/qdrant:v1.17.1
-qdrant/qdrant:v1.16.3
-qdrant/qdrant:v1.15.5
-qdrant/qdrant:v1.14.1
-qdrant/qdrant:v1.13.6
---platform=linux/arm64 qdrant/qdrant:v1.19.0
---platform=linux/arm64 qdrant/qdrant:v1.18.3
---platform=linux/arm64 qdrant/qdrant:v1.17.1
---platform=linux/arm64 qdrant/qdrant:v1.16.3
---platform=linux/arm64 qdrant/qdrant:v1.15.5
---platform=linux/arm64 qdrant/qdrant:v1.14.1
---platform=linux/arm64 qdrant/qdrant:v1.13.6
+#qdrant/qdrant:v1.19.0
+#qdrant/qdrant:v1.18.3
+#qdrant/qdrant:v1.17.1
+#qdrant/qdrant:v1.16.3
+#qdrant/qdrant:v1.15.5
+#qdrant/qdrant:v1.14.1
+#qdrant/qdrant:v1.13.6
+#--platform=linux/arm64 qdrant/qdrant:v1.19.0
+#--platform=linux/arm64 qdrant/qdrant:v1.18.3
+#--platform=linux/arm64 qdrant/qdrant:v1.17.1
+#--platform=linux/arm64 qdrant/qdrant:v1.16.3
+#--platform=linux/arm64 qdrant/qdrant:v1.15.5
+#--platform=linux/arm64 qdrant/qdrant:v1.14.1
+#--platform=linux/arm64 qdrant/qdrant:v1.13.6
 
 
 
