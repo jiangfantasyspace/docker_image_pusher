@@ -1,58 +1,83 @@
-rayproject/ray:2.58.0
-rayproject/ray:2.57.0
-rayproject/ray:2.56.1
-rayproject/ray:2.55.1
-rayproject/ray:2.54.1
-rayproject/ray:2.53.0
-rayproject/ray:2.51.2
-rayproject/ray:2.52.0
-rayproject/ray:2.50.0
-rayproject/ray:2.49.2
-rayproject/ray:2.48.0
-rayproject/ray:2.47.1
-rayproject/ray:2.46.0
-rayproject/ray:2.45.0
-rayproject/ray:2.44.1
-rayproject/ray:2.43.0
-rayproject/ray:2.42.1
-rayproject/ray:2.41.0
-rayproject/ray:2.39.0
-rayproject/ray:2.38.0
-rayproject/ray:2.37.0
-rayproject/ray:2.36.1
-rayproject/ray:2.35.0
-rayproject/ray:2.24.0
-rayproject/ray:2.12.0
-rayproject/ray:2.9.3
-rayproject/ray:1.13.1
+rayproject/ray:2.57.0-py311-cu129
+rayproject/ray:2.56.1-py311-cu129
+rayproject/ray:2.57.0-py311-gpu
+rayproject/ray:2.56.1-py311-gpu
+rayproject/ray:2.55.1-py311-gpu
+ayproject/ray:2.58.0-py311-gpu
+rayproject/ray:2.54.1-py311-gpu
+rayproject/ray:2.53.0-py311-gpu
+rayproject/ray:2.52.0-py311-gpu
+rayproject/ray:2.51.2-py311-gpu
+rayproject/ray:2.50.0-py311-gpu
 
---platform=linux/arm64 rayproject/ray:2.58.0
---platform=linux/arm64 rayproject/ray:2.57.0
---platform=linux/arm64 rayproject/ray:2.56.1
---platform=linux/arm64 rayproject/ray:2.55.1
---platform=linux/arm64 rayproject/ray:2.54.1
---platform=linux/arm64 rayproject/ray:2.53.0
---platform=linux/arm64 rayproject/ray:2.51.2
---platform=linux/arm64 rayproject/ray:2.52.0
---platform=linux/arm64 rayproject/ray:2.50.0
---platform=linux/arm64 rayproject/ray:2.49.2
---platform=linux/arm64 rayproject/ray:2.48.0
---platform=linux/arm64 rayproject/ray:2.47.1
---platform=linux/arm64 rayproject/ray:2.46.0
---platform=linux/arm64 rayproject/ray:2.45.0
---platform=linux/arm64 rayproject/ray:2.44.1
---platform=linux/arm64 rayproject/ray:2.43.0
---platform=linux/arm64 rayproject/ray:2.42.1
---platform=linux/arm64 rayproject/ray:2.41.0
---platform=linux/arm64 rayproject/ray:2.39.0
---platform=linux/arm64 rayproject/ray:2.38.0
---platform=linux/arm64 rayproject/ray:2.37.0
---platform=linux/arm64 rayproject/ray:2.36.1
---platform=linux/arm64 rayproject/ray:2.35.0
---platform=linux/arm64 rayproject/ray:2.24.0
---platform=linux/arm64 rayproject/ray:2.12.0
---platform=linux/arm64 rayproject/ray:2.9.3
---platform=linux/arm64 rayproject/ray:1.13.1
+--platform=linux/arm64 rayproject/ray:2.57.0-py311-cu129
+--platform=linux/arm64 rayproject/ray:2.56.1-py311-cu129
+--platform=linux/arm64 rayproject/ray:2.57.0-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.56.1-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.55.1-py311-gpu
+--platform=linux/arm64 ayproject/ray:2.58.0-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.54.1-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.53.0-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.52.0-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.51.2-py311-gpu
+--platform=linux/arm64 rayproject/ray:2.50.0-py311-gpu
+
+
+#rayproject/ray:2.58.0
+#rayproject/ray:2.57.0
+#rayproject/ray:2.56.1
+#rayproject/ray:2.55.1
+#rayproject/ray:2.54.1
+#rayproject/ray:2.53.0
+#rayproject/ray:2.51.2
+#rayproject/ray:2.52.0
+#rayproject/ray:2.50.0
+#rayproject/ray:2.49.2
+#rayproject/ray:2.48.0
+#rayproject/ray:2.47.1
+#rayproject/ray:2.46.0
+#rayproject/ray:2.45.0
+#rayproject/ray:2.44.1
+#rayproject/ray:2.43.0
+#rayproject/ray:2.42.1
+#rayproject/ray:2.41.0
+#rayproject/ray:2.39.0
+#rayproject/ray:2.38.0
+#rayproject/ray:2.37.0
+#rayproject/ray:2.36.1
+#rayproject/ray:2.35.0
+#rayproject/ray:2.24.0
+#rayproject/ray:2.12.0
+#rayproject/ray:2.9.3
+#rayproject/ray:1.13.1
+
+#--platform=linux/arm64 rayproject/ray:2.58.0
+#--platform=linux/arm64 rayproject/ray:2.57.0
+#--platform=linux/arm64 rayproject/ray:2.56.1
+#--platform=linux/arm64 rayproject/ray:2.55.1
+#--platform=linux/arm64 rayproject/ray:2.54.1
+#--platform=linux/arm64 rayproject/ray:2.53.0
+#--platform=linux/arm64 rayproject/ray:2.51.2
+#--platform=linux/arm64 rayproject/ray:2.52.0
+#--platform=linux/arm64 rayproject/ray:2.50.0
+#--platform=linux/arm64 rayproject/ray:2.49.2
+#--platform=linux/arm64 rayproject/ray:2.48.0
+#--platform=linux/arm64 rayproject/ray:2.47.1
+#--platform=linux/arm64 rayproject/ray:2.46.0
+#--platform=linux/arm64 rayproject/ray:2.45.0
+#--platform=linux/arm64 rayproject/ray:2.44.1
+#--platform=linux/arm64 rayproject/ray:2.43.0
+#--platform=linux/arm64 rayproject/ray:2.42.1
+#--platform=linux/arm64 rayproject/ray:2.41.0
+#--platform=linux/arm64 rayproject/ray:2.39.0
+#--platform=linux/arm64 rayproject/ray:2.38.0
+#--platform=linux/arm64 rayproject/ray:2.37.0
+#--platform=linux/arm64 rayproject/ray:2.36.1
+#--platform=linux/arm64 rayproject/ray:2.35.0
+#--platform=linux/arm64 rayproject/ray:2.24.0
+#--platform=linux/arm64 rayproject/ray:2.12.0
+#--platform=linux/arm64 rayproject/ray:2.9.3
+#--platform=linux/arm64 rayproject/ray:1.13.1
 
 
 
