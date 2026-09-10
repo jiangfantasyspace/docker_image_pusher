@@ -17,7 +17,7 @@
 --platform=linux/arm64 ghcr.io/wg-easy/wg-easy:15.0.0-beta.12
 #--platform=linux/arm64 ghcr.io/wg-easy/wg-easy:14.0.0
 #--platform=linux/arm64 ghcr.io/wg-easy/wg-easy:13.3.0
---platform=linux/arm64 ghcr.io/wg-easy/wg-easy:12.0.0
+#--platform=linux/arm64 ghcr.io/wg-easy/wg-easy:12.0.0
 
 
 #vllm/vllm-openai:v0.28.0
